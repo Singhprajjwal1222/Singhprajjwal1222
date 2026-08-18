@@ -3,7 +3,7 @@
 🎓 B.Tech Computer Science & Engineering | 🤖 AI/ML Enthusiast | 💻 Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;AI%2FML+Enthusiast;Data+Science+Learner;Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋 Hi, I'm Prajjwal Singh;B.Tech+CSE+Student;AI%2FML+Enthusiast;Data+Science+Learner;Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 👨‍💻 About Me
