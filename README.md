@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;AI%2FML+Enthusiast;Data+Science+Learner;Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>---
+</p>
 
 👨‍💻 About Me
 
@@ -16,7 +16,6 @@
 - 🌱 Continuously learning new technologies and building projects
 - 🚀 Goal: To build useful, scalable and real-world software solutions
 
----
 
 🛠️ Technical Skills
 
@@ -53,7 +52,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>---
+</p>
 
 📚 Currently Learning
 
@@ -64,8 +63,6 @@
 - 🧩 Data Structures & Algorithms
 - ☁️ Cloud Computing
 
----
-
 💼 Experience & Certifications
 
 - 🌐 Web Development Internship
@@ -74,26 +71,24 @@
 - 📊 Data Analytics / Data Science Training
 - 🏆 Programming & Coding Practice
 
----
-
 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>---
+</p>
 
 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>---
+</p>
 
 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>---
+</p>
 
 🌐 Connect With Me
 
@@ -105,7 +100,7 @@
 <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a><a href="https://leetcode.com/u/singh_prajwal1222/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a></p>---
+</a></p>
 
 💡 My Goal
 
@@ -113,7 +108,6 @@
 
 I believe in continuously improving my technical skills, solving real-world problems, and creating projects that make a meaningful impact.
 
----
 
 <p align="center">
   ⭐ If you find my projects interesting, consider giving them a star!
